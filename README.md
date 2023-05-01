@@ -1,4 +1,4 @@
-Check it out <code>js-01-color-flipper.netlify.app</code>
+Add this on browser:     <code>js-01-color-flipper.netlify.app</code>
 
 
 
